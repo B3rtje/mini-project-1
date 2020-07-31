@@ -48,7 +48,7 @@ Because something you need feedback to improve the code. Working together can re
 Repository: 
 - .gitignore file
 - .ReadMe file
-- .hangmangame (actual program)
+- .hangmangame (actual program - 2 versions
 
 What does your repository look like? Explain your folder and file structure.
 
